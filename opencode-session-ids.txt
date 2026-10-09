@@ -1,0 +1,2 @@
+MANAGER_SESSION=ses_ede8b73a6ffe1WbpkB6ERCCjfw
+WORKER_SESSION=ses_ede8b72a0ffe9Qse3CUrCaoJrp
